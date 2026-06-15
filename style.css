@@ -80,5 +80,6 @@ body {
     }
     .img {
         font-size: 1rem;
+        padding:15px 0;
     }
 }
